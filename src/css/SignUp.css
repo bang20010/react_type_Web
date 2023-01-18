@@ -1,0 +1,66 @@
+.signContent{
+    padding: 10px;
+    width: 50vh;
+    height: 65vh;
+    display: flex;
+    border: 1px solid gray;
+    border-radius: 10px;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.title{
+    display: flex;
+    margin-bottom: 50px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+input {
+    margin-top: 10px;
+    width: 80%;
+    height: 30px;
+}
+
+button{
+    margin-top: 10px;
+    width: 82%;
+    height: 30px;
+    color: white;
+    background-color: dodgerblue;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.agreeDiv{
+    margin-top: 10px;
+    height:90px;
+    width:80%;
+    border:1px solid #ccc;
+    font:14px/16px Georgia, Garamond,
+     Serif;overflow:auto;
+}
+
+.checkDIv{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 80%;
+    height: 36px;    
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
+
+
+.checkBox{
+    width: 15px;
+    height: 15px;
+    margin: 12px;
+}
+
